@@ -61,3 +61,11 @@ body {
 
 .modal-body {
   background-color: #D1C4E9; }
+
+.smoking-clr {
+  background-color: red;
+  color: white; }
+
+.Nonsmoking-clr {
+  background-color: green;
+  color: white; }
